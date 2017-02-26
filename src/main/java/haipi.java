@@ -5,5 +5,6 @@ public class haipi {
     public static void main(String[] args){
         System.out.println("try again and again");
         System.out.println("try again and again and again");
+        System.out.println("ohohoh");
     }
 }
